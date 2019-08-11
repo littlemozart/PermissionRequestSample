@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">PermissionRequestSample</string>
+    <string name="prompt">Prompt</string>
+    <string name="warn">Only permissions allowed we can do a better job</string>
+    <string name="ok">OK</string>
+    <string name="cancel_and_exit">Cancel &#38; Exit</string>
+    <string name="set">Settings</string>
+    <string name="rationale">Allow these permissions to make it better</string>
+</resources>
